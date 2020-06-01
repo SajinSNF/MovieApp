@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="poster_base_url">http://image.tmdb.org/t/p/original//</string>
+    <string name="base_url">http://api.themoviedb.org/</string>
+    <string name="popular_base_url">http://api.themoviedb.org/3/movie/popular?api_key=</string>
+    <string name="top_rated_base_url">http://api.themoviedb.org/3/movie/top_rated?api_key=</string>
+    <string name="results">results</string>
+    <string name="poster_path">poster_path</string>
+    <string name="original_title">original_title</string>
+    <string name="vote_average">vote_average</string>
+    <string name="overview">overview</string>
+    <string name="release_date">release_date</string>
+    <string name="forward_slash_ten">/10</string>
+    <string name="poster_url_variable_name">posterUrl</string>
+    <string name="title_variable_name">title</string>
+    <string name="rating_variable_name">rating</string>
+    <string name="overview_variable_name">overview</string>
+    <string name="release_date_variable_name">releaseDate</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorite">Favorite:</string>
+</resources>
